@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 
-
 def color_identification(hsv):
     img = cv2.imread("image_for_color_identification.jpg")
 
